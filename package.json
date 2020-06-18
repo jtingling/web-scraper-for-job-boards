@@ -1,0 +1,22 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "client-sessions": "^0.8.0",
+    "express": "^4.17.1",
+    "htmlparser2": "^4.1.0",
+    "json2csv": "^5.0.1",
+    "mongoose": "^5.9.16",
+    "puppeteer": "^3.0.4"
+  }
+}
